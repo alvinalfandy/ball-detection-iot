@@ -40,7 +40,7 @@ const upload = multer({
 });
 
 // API Key Roboflow
-const ROBOFLOW_API_KEY = "Am7lrBZW1eYzrwt0rWvc";
+const ROBOFLOW_API_KEY = "";
 const ROBOFLOW_URL = "https://serverless.roboflow.com/ball-t8zxj/15";
 
 // Route untuk halaman utama
